@@ -1,3 +1,19 @@
 <p style="font-size: 20px; color: #333; text-align: center; margin-top: 15px;">
     ပၞဴ
 </p>
+<!DOCTYPE html>
+<html lang="my">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MonPedia - ပၞဴ</title>
+</head>
+<body style="margin: 0; padding: 20px; background-color: #f5f5f5; font-family: sans-serif;">
+
+    <div style="max-width: 400px; margin: 20px auto; padding: 20px; border: 1px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); text-align: center; background-color: #ffffff;">
+        
+        <img src="https://images.unsplash.com/photo-1590502593747-42a996133562?w=500" alt="Lemon" style="width: 100%; height: auto; border-radius: 8px; object-fit: cover;">
+        
+        <div style="margin-top: 15px;">
+            <h2 style="color: #2e7d32; margin: 5px 0; font-size: 28px;">ပၞဴ</h2>
+            <p style="color: #424242; margin: 5px 0; font-size: 18px
